@@ -1,5 +1,7 @@
 # Sistem Informasi Billboard
 
+![](Screenshot_20221021_132544.png)
+
 Untuk jalankan:
 
 1. Download,
